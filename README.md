@@ -2,6 +2,6 @@
 The following is a visualisaion of how the nature inspired learning algorithm learns.
 
 
-![caption](videos/biocomp_vis_vid)
+https://github.com/eligrealish/Biocomputation-Visualisation/blob/main/videos/biocomp_vis_vid.mov
 
           
